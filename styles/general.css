@@ -1,0 +1,45 @@
+.imgLogo {
+    height: 10%;
+    width: 55%;
+    border-radius: 101px;
+    margin-top: 82px;
+}
+
+.center {
+    text-align: center;
+}
+
+.top-31 {
+    margin-top: 31%;
+}
+
+.icon-logo {
+    margin-bottom: 10px;
+    padding-left: 24px;
+}
+
+.pb-76 {
+    padding-bottom: 76px !important;
+}
+
+.imgAboutMe {
+    border-radius: 9px;
+    border: solid 0.1px #02c8da;
+    padding-bottom: 15px;
+}
+
+.fontWeb {
+    font-size: 16px !important;
+}
+
+@media only screen and (max-width: 575px){
+    .banner_content {
+        margin-top: 0px !important;
+        padding-top: 0px !important;
+    }
+    .imgLogo {
+        margin-top: 108px !important;
+    }
+}
+
+
